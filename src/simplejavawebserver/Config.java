@@ -11,7 +11,7 @@ import java.util.Properties;
 
 /**
  *
- * @author Lenovo
+ * @author Asus
  */
 public class Config {
 
