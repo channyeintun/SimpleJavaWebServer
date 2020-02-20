@@ -8,7 +8,7 @@ package simplejavawebserver;
 import java.util.*;
 /**
  *
- * @author Lenovo
+ * @author Asus
  */
 public class ContentTypeMapping {
 
