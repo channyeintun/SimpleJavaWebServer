@@ -52,7 +52,7 @@ public class ClientProcessorThread extends Thread{
         try
         {
             din = new DataInputStream( client.getInputStream());
-            String firstLine = din.readLine();
+            String firstLine = din.readUTF();
             String[] requestLine= firstLine.split(" ");
 
             httpMethod = requestLine[0];
