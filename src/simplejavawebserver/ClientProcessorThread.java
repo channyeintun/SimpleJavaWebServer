@@ -11,7 +11,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 /**
  *
- * @author Lenovo
+ * @author Asus
  */
 public class ClientProcessorThread extends Thread{
 
